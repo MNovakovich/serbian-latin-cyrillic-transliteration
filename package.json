@@ -1,0 +1,26 @@
+{
+  "name": "serbian-latin-cyrillic-transliteration",
+  "version": "1.0.0",
+  "description": "All in one Cyrillic to Latin transliteration plugin for React & Nextjs that actually works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MNovakovich/serbian-latin-cyrilic-transliteration.git"
+  },
+  "keywords": [
+    "Serbian",
+    "Transliteration",
+    "Cyrilic",
+    "Latin",
+    "Letter"
+  ],
+  "author": "Marko Novakovic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MNovakovich/serbian-latin-cyrilic-transliteration/issues"
+  },
+  "homepage": "https://github.com/MNovakovich/serbian-latin-cyrilic-transliteration#readme"
+}
